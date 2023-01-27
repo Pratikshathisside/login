@@ -1,9 +1,15 @@
-![image](https://user-images.githubusercontent.com/104529563/214957337-8f604af4-66df-4c98-912b-5ff2668fc50f.png)
+uiux looks like
+![image](https://user-images.githubusercontent.com/104529563/215080732-216035e2-3ccf-4732-8814-dd8ec4de3cdf.png)
 
-if not an user
-![image](https://user-images.githubusercontent.com/104529563/214958922-492be731-a136-4102-99da-2cd5837d1a42.png)
+after logging in
+(i have added account in firebase that is 
 
+aila@gmail.com
+pswd: bhoot123
 
-if you are a user
-![image](https://user-images.githubusercontent.com/104529563/214959130-24c55f84-7274-4f73-9847-a0918374f3a9.png)
+![image](https://user-images.githubusercontent.com/104529563/215080970-f8d17bc7-b2fc-4a5a-b741-aafe85553831.png)
+
+after log out we will return to login page again.
+yet many function need to add like signup and forget password.
+
 
