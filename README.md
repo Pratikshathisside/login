@@ -1,6 +1,6 @@
 uiux looks like
-<img width="40%" height = "350px" src="https://user-images.githubusercontent.com/104529563/215080732-216035e2-3ccf-4732-8814-dd8ec4de3cdf.png" alt="cover" />
-/*![image](https://user-images.githubusercontent.com/104529563/215080732-216035e2-3ccf-4732-8814-dd8ec4de3cdf.png)*/
+<img width="20%" height = "450px" src="https://user-images.githubusercontent.com/104529563/215080732-216035e2-3ccf-4732-8814-dd8ec4de3cdf.png" alt="cover" />
+
 
 after logging in
 (i have added account in firebase that is 
